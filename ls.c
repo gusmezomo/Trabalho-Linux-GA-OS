@@ -2238,9 +2238,9 @@
    
            case_GETOPT_VERSION_CHAR (PROGRAM_NAME, AUTHORS);
    
-       case 1000:
-       printf("print trabalho Gustavo Mezomo\n");
-       exit(0);
+     case 1000:
+     printf("print trabalho Gustavo Mezomo\n");
+     exit(0);
    
            default:
              usage (LS_FAILURE);
