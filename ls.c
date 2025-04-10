@@ -2240,7 +2240,7 @@
    
      case 1000:
      printf("print trabalho Gustavo Mezomo\n");
-     exit(0);
+     break;
    
            default:
              usage (LS_FAILURE);
